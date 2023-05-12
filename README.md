@@ -1,8 +1,9 @@
-### Hi there 👋
+ 
+Hola 👋
 
-<!--
-**Cristina160/Cristina160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Actualmente estoy en  el curso  Factory 5  Coder F5.
+Actualmente voy a iniciar una curso de Desarrollo web <Full Stack> Uniquecamp en Factoria F5.
+
+
 
 
 
